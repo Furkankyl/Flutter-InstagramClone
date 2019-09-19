@@ -215,15 +215,7 @@ List<Story> storyList = [
   new Story("https://static.businessinsider.com/image/54ac1929eab8ea004bcf6c1a-/image.jpg","Elon"),
   new Story("","Furkan Kayalı"),
   new Story("https://gatewaytovictory.files.wordpress.com/2016/07/portrait-nikola-tesla.jpg?w=960","Tesla"),
-  new Story("","Merve Kayalı"),
-  new Story("","Furkan Kayalı"),
-  new Story("","Furkan Kayalı"),
-  new Story("","Furkan Kayalı"),
-  new Story("","Furkan Kayalı"),
-  new Story("","Furkan Kayalı"),
-  new Story("","Furkan Kayalı"),
-  new Story("","Furkan Kayalı"),
-  new Story("","Furkan Kayalı"),
+
 ];
 
 class Post{
